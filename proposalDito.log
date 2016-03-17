@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.3.14)  17 MAR 2016 00:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.3.14)  17 MAR 2016 10:59
 entering extended mode
 **proposalDito.tex
 (proposalDito.tex
@@ -184,6 +184,21 @@ File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 \Gin@req@height=\dimen115
 \Gin@req@width=\dimen116
 )
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\natbib\natbib.sty"
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip44
+\bibsep=\skip45
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count101
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count102
+\float@exts=\toks16
+\float@box=\box26
+\@float@everytoks=\toks17
+\@floatcapt=\box27
+)
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
 Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
 
@@ -199,14 +214,14 @@ Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
 Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
 \col@sep=\dimen117
 \extrarowheight=\dimen118
-\NC@list=\toks16
-\extratabsurround=\skip44
-\backup@length=\skip45
+\NC@list=\toks18
+\extratabsurround=\skip46
+\backup@length=\skip47
 )
-\everycr=\toks17
-\minrowclearance=\skip46
+\everycr=\toks19
+\minrowclearance=\skip48
 )
-\rownum=\count101
+\rownum=\count103
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
 Package xcolor Info: Model `RGB' extended on input line 1353.
@@ -217,25 +232,21 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
 )
-(proposalDito.aux
-
-LaTeX Warning: Label `my-label' multiply defined.
-
-)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
+(proposalDito.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -271,134 +282,157 @@ LaTeX Font Info:    ... okay on input line 8.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\AtBeginShipoutBox=\box26
-Package hyperref Info: Link coloring OFF on input line 8.
+\AtBeginShipoutBox=\box28
+Package hyperref Info: Link coloring OFF on input line 10.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count102
+\c@section@level=\count104
 )
-LaTeX Info: Redefining \ref on input line 8.
-LaTeX Info: Redefining \pageref on input line 8.
-LaTeX Info: Redefining \nameref on input line 8.
+LaTeX Info: Redefining \ref on input line 10.
+LaTeX Info: Redefining \pageref on input line 10.
+LaTeX Info: Redefining \nameref on input line 10.
 
 (proposalDito.out) (proposalDito.out)
 \@outlinefile=\write3
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count103
+\scratchcounter=\count105
 \scratchdimen=\dimen119
-\scratchbox=\box27
-\nofMPsegments=\count104
-\nofMParguments=\count105
-\everyMPshowfont=\toks18
-\MPscratchCnt=\count106
+\scratchbox=\box29
+\nofMPsegments=\count106
+\nofMParguments=\count107
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count108
 \MPscratchDim=\dimen120
-\MPnumerator=\count107
-\makeMPintoPDFobject=\count108
-\everyMPtoPDFconversion=\toks19
+\MPnumerator=\count109
+\makeMPintoPDFobject=\count110
+\everyMPtoPDFconversion=\toks21
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 11.
+(Font)              <12> on input line 13.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 11.
+(Font)              <8> on input line 13.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 11.
+(Font)              <6> on input line 13.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 14.
+(Font)              <10.95> on input line 16.
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ú in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ù in font cmr10!
- <BlockDiagram.png, id=49, 461.725pt x 312.16624pt>
-File: BlockDiagram.png Graphic file (type png)
- <use BlockDiagram.png>
-Package pdftex.def Info: BlockDiagram.png used on input line 35.
-(pdftex.def)             Requested size: 461.72388pt x 312.16548pt.
+
+Overfull \hbox (2.66632pt too wide) in paragraph at lines 30--31
+[]\OT1/cmr/m/n/10.95 Recent stud-ies con-ducted in []Be-mel-mans et al.[] ([]20
+12[]), []for US Health Statis-tics[] ([]1999[]), and []Sharkey
+ []
 
 [1
 
 {C:/Users/dito/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+<BlockDiagram.png, id=84, 461.725pt x 312.16624pt>
+File: BlockDiagram.png Graphic file (type png)
+ <use BlockDiagram.png>
+Package pdftex.def Info: BlockDiagram.png used on input line 47.
+(pdftex.def)             Requested size: 461.72388pt x 312.16548pt.
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+[2] [3pdfTeX warning (ext4): destination with the same identifier (name{figure.
+1}) has been already used, duplicate ignored
 
-
-Overfull \hbox (22.07138pt too wide) in paragraph at lines 74--83
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.79 	\section
+              {Risk Register} <./BlockDiagram.png>]
+Overfull \hbox (22.07138pt too wide) in paragraph at lines 84--93
  [][] 
  []
 
+[4pdfTeX warning (ext4): destination with the same identifier (name{table.1}) h
+as been already used, duplicate ignored
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-Overfull \hbox (8.40874pt too wide) in paragraph at lines 91--91
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.94 	\section
+              {Time line}]
+Overfull \hbox (8.40874pt too wide) in paragraph at lines 101--101
 []|\OT1/cmr/m/n/10.95 W| 
  []
 
 
-Overfull \hbox (4.60664pt too wide) in paragraph at lines 91--91
+Overfull \hbox (4.60664pt too wide) in paragraph at lines 101--101
 []|\OT1/cmr/m/n/10.95 E| 
  []
 
 
-Overfull \hbox (4.60664pt too wide) in paragraph at lines 91--91
+Overfull \hbox (4.60664pt too wide) in paragraph at lines 101--101
 []|\OT1/cmr/m/n/10.95 E| 
  []
 
 
-Overfull \hbox (5.67125pt too wide) in paragraph at lines 91--91
+Overfull \hbox (5.67125pt too wide) in paragraph at lines 101--101
 []|\OT1/cmr/m/n/10.95 K| 
  []
 
 
-Overfull \hbox (3.2379pt too wide) in paragraph at lines 91--91
+Overfull \hbox (3.2379pt too wide) in paragraph at lines 101--101
 []|\OT1/cmr/m/n/10.95 S| 
  []
 
 
-Overfull \hbox (36.56676pt too wide) in paragraph at lines 90--103
+Overfull \hbox (36.56676pt too wide) in paragraph at lines 100--113
  [][] 
  []
 
+[5pdfTeX warning (ext4): destination with the same identifier (name{table.2}) h
+as been already used, duplicate ignored
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.114 	\section
+               {References}] (proposalDito.bbl
+Missing character: There is no ë in font cmr10!
+Missing character: There is no í in font cmr10!
+ [6pdfTeX warning (ext4): destination with the same identifier (name{table.3}) 
+has been already used, duplicate ignored
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 106.
-[2 <./BlockDiagram.png>] [3] [4]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 106.
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.54 \end{thebibliography}
+                          ])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 117.
+ [7]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 117.
  (proposalDito.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 106.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 106.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 117.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 117.
 Package rerunfilecheck Info: File `proposalDito.out' has not changed.
 (rerunfilecheck)             Checksum: 103DED24F8FCF76B1009A28151BA2898;598.
-
-
-LaTeX Warning: There were multiply-defined labels.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 106.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 117.
  ) 
 Here is how much of TeX's memory you used:
- 5958 strings out of 493673
- 86557 string characters out of 3141533
- 237893 words of memory out of 3000000
- 9262 multiletter control sequences out of 15000+200000
- 9118 words of font info for 32 fonts, out of 3000000 for 9000
+ 6382 strings out of 493673
+ 92169 string characters out of 3141533
+ 226356 words of memory out of 3000000
+ 9661 multiletter control sequences out of 15000+200000
+ 9464 words of font info for 33 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 41i,18n,35p,1518b,347s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,18n,35p,1518b,431s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C
 :/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/P
-rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Progr
-am Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on proposalDito.pdf (4 pages, 180481 bytes).
+rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Prog
+ram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program 
+Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Fi
+les (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on proposalDito.pdf (7 pages, 226956 bytes).
 PDF statistics:
- 99 PDF objects out of 1000 (max. 8388607)
- 20 named destinations out of 1000 (max. 500000)
+ 158 PDF objects out of 1000 (max. 8388607)
+ 33 named destinations out of 1000 (max. 500000)
  94 words of extra memory for PDF output out of 10000 (max. 10000000)
 

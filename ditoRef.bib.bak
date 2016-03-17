@@ -2,110 +2,130 @@
 % Encoding: Cp1252
 
 
-@Article{brooks1986robust,
-  Title                    = {A robust layered control system for a mobile robot},
-  Author                   = {Brooks, Rodney and others},
-  Journal                  = {Robotics and Automation, IEEE Journal of},
-  Year                     = {1986},
-  Number                   = {1},
-  Pages                    = {14--23},
-  Volume                   = {2},
-
-  Owner                    = {dito},
-  Publisher                = {IEEE},
-  Timestamp                = {2015.10.01},
-  Url                      = {http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=1087032}
-}
-
-@Article{chahl2004landing,
-  Title                    = {Landing strategies in honeybees and applications to uninhabited airborne vehicles},
-  Author                   = {Chahl, Javaan S and Srinivasan, Mandyam V and Zhang, Shao-Wu},
-  Journal                  = {The International Journal of Robotics Research},
-  Year                     = {2004},
+@Article{bemelmans2012socially,
+  Title                    = {Socially assistive robots in elderly care: A systematic review into effects and effectiveness},
+  Author                   = {Bemelmans, Roger and Gelderblom, Gert Jan and Jonker, Pieter and De Witte, Luc},
+  Journal                  = {Journal of the American Medical Directors Association},
+  Year                     = {2012},
   Number                   = {2},
-  Pages                    = {101--110},
-  Volume                   = {23},
-
-  Owner                    = {dito},
-  Publisher                = {SAGE Publications},
-  Timestamp                = {2015.10.01}
-}
-
-@Article{durrant2006simultaneous,
-  Title                    = {Simultaneous localization and mapping: part I},
-  Author                   = {Durrant-Whyte, Hugh and Bailey, Tim},
-  Journal                  = {Robotics \& Automation Magazine, IEEE},
-  Year                     = {2006},
-  Number                   = {2},
-  Pages                    = {99--110},
+  Pages                    = {114--120},
   Volume                   = {13},
 
   Owner                    = {dito},
-  Publisher                = {IEEE},
-  Timestamp                = {2015.10.01}
+  Publisher                = {Elsevier},
+  Timestamp                = {2016.03.17}
 }
 
-@InProceedings{langelaan2004navigation,
-  Title                    = {Navigation of small UAVs operating in forests},
-  Author                   = {Langelaan, Jack and Rock, Steve},
-  Booktitle                = {AIAA guidance, navigation, and control conference},
-  Year                     = {2004},
-  Pages                    = {2031--2041},
-  Volume                   = {3},
+@Book{cangelosi2015developmental,
+  Title                    = {Developmental robotics: From babies to robots},
+  Author                   = {Cangelosi, Angelo and Schlesinger, Matthew and Smith, Linda B},
+  Publisher                = {MIT Press},
+  Year                     = {2015},
 
   Owner                    = {dito},
-  Timestamp                = {2015.10.01},
-  Url                      = {http://arc.aiaa.org/doi/pdf/10.2514/6.2004-5140}
+  Timestamp                = {2016.03.17}
 }
 
-@Article{lavalle2001randomized,
-  Title                    = {Randomized kinodynamic planning},
-  Author                   = {LaValle, Steven M and Kuffner, James J},
-  Journal                  = {The International Journal of Robotics Research},
-  Year                     = {2001},
-  Number                   = {5},
-  Pages                    = {378--400},
-  Volume                   = {20},
+@InCollection{forster2009robots,
+  Title                    = {Robots that say ‘No’},
+  Author                   = {F{\"o}rster, Frank and Nehaniv, Chrystopher L and Saunders, Joe},
+  Booktitle                = {Advances in Artificial Life. Darwin Meets von Neumann},
+  Publisher                = {Springer},
+  Year                     = {2009},
+  Pages                    = {158--166},
 
   Owner                    = {dito},
-  Publisher                = {SAGE Publications},
-  Timestamp                = {2015.10.01}
+  Timestamp                = {2016.03.17}
 }
 
-@InProceedings{ogren2012increasing,
-  Title                    = {Increasing Modularity of UAV Control Systems using Computer Game Behavior Trees},
-  Author                   = {Ogren, Petter},
-  Booktitle                = {AIAA Guidance, Navigation and Control Conference, Minneapolis, MN},
-  Year                     = {2012},
-
-  Owner                    = {dito},
-  Timestamp                = {2015.10.01}
-}
-
-@Article{sarter1997automation,
-  Title                    = {Automation surprises},
-  Author                   = {Sarter, Nadine B and Woods, David D and Billings, Charles E},
-  Journal                  = {Handbook of human factors and ergonomics},
-  Year                     = {1997},
-  Pages                    = {1926--1943},
+@Article{gordon2010neuromorphically,
+  Title                    = {Neuromorphically inspired appraisal-based decision making in a cognitive robot},
+  Author                   = {Gordon, Stephen M and Kawamura, Kazuhiko and Wilkes, D Mitchell},
+  Journal                  = {Autonomous Mental Development, IEEE Transactions on},
+  Year                     = {2010},
+  Number                   = {1},
+  Pages                    = {17--39},
   Volume                   = {2},
 
   Owner                    = {dito},
-  Timestamp                = {2015.10.01},
-  Url                      = {https://hci.cs.uwaterloo.ca/faculty/elaw/cs889/reading/automation/sarter.pdf}
+  Publisher                = {IEEE},
+  Timestamp                = {2016.03.17}
 }
 
-@Article{thrun1998learning,
-  Title                    = {Learning metric-topological maps for indoor mobile robot navigation},
-  Author                   = {Thrun, Sebastian},
-  Journal                  = {Artificial Intelligence},
-  Year                     = {1998},
-  Number                   = {1},
-  Pages                    = {21--71},
-  Volume                   = {99},
+@Article{meng2006design,
+  Title                    = {Design issues for assistive robotics for the elderly},
+  Author                   = {Meng, Qinggang and Lee, Mark H},
+  Journal                  = {Advanced engineering informatics},
+  Year                     = {2006},
+  Number                   = {2},
+  Pages                    = {171--186},
+  Volume                   = {20},
 
   Owner                    = {dito},
   Publisher                = {Elsevier},
-  Timestamp                = {2015.10.01}
+  Timestamp                = {2016.03.17}
+}
+
+@Article{scassellati2002theory,
+  Title                    = {Theory of mind for a humanoid robot},
+  Author                   = {Scassellati, Brian},
+  Journal                  = {Autonomous Robots},
+  Year                     = {2002},
+  Number                   = {1},
+  Pages                    = {13--24},
+  Volume                   = {12},
+
+  Owner                    = {dito},
+  Publisher                = {Springer},
+  Timestamp                = {2016.03.17}
+}
+
+@Article{Sharkey2012,
+  Title                    = {Granny and the robots: ethical issues in robot care for the elderly},
+  Author                   = {Sharkey, Amanda and Sharkey, Noel},
+  Journal                  = {Ethics and Information Technology},
+  Year                     = {2012},
+  Number                   = {1},
+  Pages                    = {27--40},
+  Volume                   = {14},
+
+  Owner                    = {dito},
+  Publisher                = {Springer},
+  Timestamp                = {2016.03.17}
+}
+
+@Article{sun2007importance,
+  Title                    = {The importance of cognitive architectures: An analysis based on CLARION},
+  Author                   = {Sun, Ron},
+  Journal                  = {Journal of Experimental \& Theoretical Artificial Intelligence},
+  Year                     = {2007},
+  Number                   = {2},
+  Pages                    = {159--193},
+  Volume                   = {19},
+
+  Owner                    = {dito},
+  Publisher                = {Taylor \& Francis},
+  Timestamp                = {2016.03.17}
+}
+
+@Book{national1999health,
+  Title                    = {Health, United States, 1999: With health and aging chartbook},
+  Author                   = {US Center for US Health Statistics},
+  Publisher                = {National Center for Health Statistics},
+  Year                     = {1999},
+
+  Owner                    = {dito},
+  Timestamp                = {2016.03.17}
+}
+
+@Book{vernon2011roadmap,
+  Title                    = {A roadmap for cognitive development in humanoid robots},
+  Author                   = {Vernon, David and Von Hofsten, Claes and Fadiga, Luciano},
+  Publisher                = {Springer Science \& Business Media},
+  Year                     = {2011},
+  Volume                   = {11},
+
+  Owner                    = {dito},
+  Timestamp                = {2016.03.17}
 }
 

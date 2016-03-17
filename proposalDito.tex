@@ -2,8 +2,10 @@
 \usepackage[a4paper, margin=2cm]{geometry}
 \usepackage{hyperref}
 \usepackage{graphicx}
+\usepackage{natbib}
+\usepackage{float}
 \usepackage[table,xcdraw]{xcolor}
-\author{\bf \LARGE Research Proposal \\ \\ \bf Dito Eka Cahya (dc15772) FARSCOPE CDT 2015}
+\author{\bf \LARGE Research Proposal \\ \\ \bf Dito Eka Cahya (dc15772) FARSCOPE CDT 2015 \\\\ Supervised by : \\ Prof. Chris Melhuish, Dr. Praminda Caleb-Solly, Prof. Tony Pipe}
 \date{}
 \begin{document}
 \title{\bf Towards The Development of Non-Verbal Multimodal Bidirectional Cognitive Architecture for Interactive Robot Assistant}
@@ -24,25 +26,33 @@
 				\item[$\bullet$]Setup and integrate robotic system for implementing the cognitive architecture.
 			\end{itemize}
 	\section{Motivation}
-	dsdsdsd
+		\begin{itemize}
+			\item[$\bullet$]Recent studies conducted in~\cite{bemelmans2012socially},~\cite{national1999health}, and~\cite{Sharkey2012} have revealed that the number of elderly people in the population of the world has shown an increasing trend, due to increased life expectancy. On the other hand, the number of younger people is decreasing due to low birth rate. This will result in an unbalanced growth of caregivers and caretakers, putting pressure on the quality of the health care systems ~\cite{bemelmans2012socially}. Assisted living robots are one of the solution to solve this problem.
+			\item[$\bullet$]In order to interact with human in most natural way, robot needs to have a multimodal communication capability, both verbal and nonverbal. (add reference)
+			\item[$\bullet$]In a noisy environment, speech alone is not enough as communication mode, need to utilise other nonverbal communication modes such as gesture, eye gaze, head pose, etc to increase confidence of inferred human attention and intention. (add reference)
+			\item[$\bullet$]In order to interact with human in most natural way, other than natural language capabilities, robot must also have cognitive architecture in order to solve general task. (add reference)
+		\end{itemize}
 	\section{Literature Review}
-	sdsdsdsds
+		\begin{itemize}
+			\item[$\bullet$]Details of what has been described in Motivation section
+			\item[$\bullet$]The design of theory of mind capabilities in interactive robotic agents is an important extension of social and cognitive capabilities in robots as it allows them to recognise the goals, intentions, desires, and belief of others. A robot can use its own theory of mind to improve the interaction with human users. ~\cite{scassellati2002theory}
+			\item[$\bullet$]The term cognitive architecture, originally proposed in the field of computational cognitive modelling and artificial intelligence, refers to a broadly scoped, general purpose computational model that captures the essential structure and process of the mind. As such, it can be employed for wide ranging, multiple level, multiple domain modeling and simulation of behavior and cognitive phenomena, rather than focusing on separated, individual skills. ~\cite{sun2007importance}
+				
+		\end{itemize}
 	\section{Basic Design}
-	dsdsdsdsd
 		\subsection{System Block Diagram}
 		\label{subsec:SystemBlockDiagram}
-			\begin{figure}[h]
+		~\autoref{fig:SystemBlockDiagram} shows general block diagram of cognitive architecture based on the generalisation of cognitive architecture design that has been done in~\cite{gordon2010neuromorphically},~\cite{forster2009robots}, and~\cite{vernon2011roadmap}. The proposed cognitive architecture will be based on those reference but developed toward generality, using the concept of developmental robotics~\cite{cangelosi2015developmental}. For the sake of simplicity, considering available time for Msc dissertation, I will focus on nonverbal inputs (pointing gesture,gaze,and head pose) and also object recognition for the cognitive architecture. 
+			\begin{figure}[H]
 				\includegraphics{BlockDiagram}
-				\caption{Cognitive Architecture Block Diagram}
+				\caption{General Cognitive Architecture Block Diagram \label{fig:SystemBlockDiagram}}
 			\end{figure}
 		\subsection{System Flow Diagram}
 		\label{subsec:SystemFlowDiagram}
-		sdsdsdsd
-		\centering
-		\begin{table}[h]
+		In order to analyse the performance of cognitive architecture that will be developed, a "order, pick, and handle" scenario is proposed. ~\autoref{tab:Scenario} below shows the details of the scenario, along with involved communication modes on each step of the scenario.
+		\begin{table}[H]
 			\centering
-			\caption{My caption}
-			\label{my-label}
+			\caption{Scenario Description and Modalities Involved \label{tab:Scenario}}
 			\begin{tabular}{ll|l|l|l|l|l|l|l|l|}
 				\cline{3-10}
 				&                                                                                                                                                                                                 & \multicolumn{4}{c|}{Perception Input}                                                                                                                                                               & \multicolumn{4}{c|}{Actuation Output}                                                                                                                                                               \\ \hline
@@ -67,7 +77,7 @@
 			\end{tabular}
 		\end{table}
 	\section{Risk Register}
-		\begin{table}[h]
+		\begin{table}[H]
 			\centering
 			\caption{Risk register ranking}
 			\label{my-label}
@@ -83,7 +93,7 @@
 		\end{table}
 	\section{Time line}
 	The table below shows proposed project timeline. The project is started from week 2 of March and will be finished on week 2 of September, so the project will take 25 weeks to finish. 
-	\begin{table}[h]
+	\begin{table}[H]
 		\centering
 		\caption{Project Timeline}
 		\label{timeline_table}
@@ -102,5 +112,6 @@
 		\end{tabular}
 	\end{table}
 	\section{References}
-	gjgjgj
+	\bibliography{ditoRef}
+	\bibliographystyle{agsm}
 \end{document}
